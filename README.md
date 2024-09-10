@@ -9,7 +9,7 @@
 #### Как только вы ознакомитесь с организацией файлов, создайте и запустите приложение. Вы увидите экран с базовой навигацией.
 ## Порядок выполнения работы:
 - Для выполнения работы Вам нужно сделать Fork данного репозитория в свою учетную запись на GitHub.
-- После чего осуществить [клонирование](https://docs.github.com/ru/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop) удаленного репозитория себе на компьютер.
+- После чего осуществить [клонирование](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository) удаленного репозитория себе на компьютер.
 - Открыть и запустить проект в Android Studio.
 - Внести изменения в проект согласно файла с каждым пунктом заданиия.
 - Зафиксировать изменения и отправить их на GitHub для каждого пункта задания (есть в Google class).
