@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Task_1</string>
     <string name="massage_button">Закрыть</string>
     <string name="insert_text">Введите текст</string>
     <string name="set_button">выбрать</string>
@@ -12,5 +12,4 @@
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
-
 </resources>
